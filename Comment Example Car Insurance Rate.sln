@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comment Example Car Insurance Rate", "Comment Example Car Insurance Rate\Comment Example Car Insurance Rate.csproj", "{329998A3-AE94-40A4-B5E2-126107B61E6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329998A3-AE94-40A4-B5E2-126107B61E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329998A3-AE94-40A4-B5E2-126107B61E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329998A3-AE94-40A4-B5E2-126107B61E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329998A3-AE94-40A4-B5E2-126107B61E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9A7E81D-B564-471A-B892-EE18CB831873}
+	EndGlobalSection
+EndGlobal
